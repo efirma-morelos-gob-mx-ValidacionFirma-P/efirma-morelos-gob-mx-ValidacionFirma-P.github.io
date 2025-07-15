@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Jul 2025 20:28:26 at https://efirma.morelos.gob.mx/ValidacionFirma?uuid=2803d557-44c4-47dd-ad6f-1f177418a14a +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://efirma.morelos.gob.mx/ValidacionFirma?uuid=2803d557-44c4-47dd-ad6f-1f177418a14a -O1 "C:\Mis lugares Web\morelos" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:28:33	Error: 	"Not Found" (404) at link https://efirma.morelos.gob.mx/css/fonts/TwogetherSansVariable.ttf (from https://efirma.morelos.gob.mx/css/layout.css?v=250225)
+20:28:33	Error: 	"Not Found" (404) at link https://efirma.morelos.gob.mx/images/samples/Login_bg.jpg (from https://efirma.morelos.gob.mx/css/style.css?v=250225)
+20:28:33	Error: 	"Not Found" (404) at link https://efirma.morelos.gob.mx/images/samples/Login_bg2.jpg (from https://efirma.morelos.gob.mx/css/style.css?v=250225)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 27 links scanned, 23 files written (4025575 bytes overall) [3433165 bytes received at 490452 bytes/sec], 780354 bytes transferred using HTTP compression in 15 files, ratio 20%, 9.0 requests per connection
+(3 errors, 0 warnings, 0 messages)
